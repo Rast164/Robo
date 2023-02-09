@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Инструкция по сборке
-nav_order: 5
+nav_order: 2
 has_children: true
 permalink: /docs/building_instruction
 ---
