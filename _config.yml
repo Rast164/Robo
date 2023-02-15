@@ -3,3 +3,14 @@ description: Описание
 theme: just-the-docs
 
 url: Rast164.github.io/Robo
+
+callouts:
+  warning:
+    title: ВНИМАНИЕ
+    color: red
+  advice:
+    title: СОВЕТ
+    color: green
+  note:
+    title: ПРИМЕЧАНИЕ
+    color: yellow
