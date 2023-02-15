@@ -6,4 +6,4 @@ has_children: true
 permalink: /docs/building_instruction
 ---
 
-# Инструкция по сборке
+## Инструкция по сборке
