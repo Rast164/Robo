@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Подключение дверных замков
+title: Дверные замки
 parent: Подключение
 nav_order: 4
 ---
