@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Подключение турникетов
+title: Турникеты
 parent: Подключение
 nav_order: 5
 ---
