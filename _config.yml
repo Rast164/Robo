@@ -3,7 +3,7 @@ description: Описание
 theme: just-the-docs
 
 url: Rast164.github.io/Robo
-logo: "/assets/images/logo.png"
+favicon: "/assets/images/favicon.png"
 
 callouts:
   warning:
