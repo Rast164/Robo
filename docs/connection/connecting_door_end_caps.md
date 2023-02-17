@@ -2,7 +2,7 @@
 layout: default
 title: Концевики дверей
 parent: Внешние устройства
-nav_order: 7
+nav_order: 5
 ---
 
 ## Подключение концевиков дверей
