@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Подключение считывателей
+title: Считыватели
 parent: Подключение
 nav_order: 3
 ---
