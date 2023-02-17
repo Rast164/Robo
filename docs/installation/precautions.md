@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Состав
-parent: Меры предосторожности
+title: Меры предосторожности
+parent: Подключение
 nav_order: 1
 ---
 
