@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Реле
-parent: Подключение
+parent: Подключение контроллера
 nav_order: 9
 ---
 
