@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Подключение
+title: Подключение контроллера
 nav_order: 4
 has_children: true
 permalink: /docs/installation
 ---
 
-## Подключение и настройка системы
+## Подключение и настройка контроллера
