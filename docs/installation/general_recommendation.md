@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Общие рекомендации
-parent: Подключение
+parent: Подключение контроллера
 nav_order: 2
 ---
 
