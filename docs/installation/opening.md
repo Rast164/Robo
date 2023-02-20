@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Датчик вскрытия
-parent: Подключение
+parent: Подключение контроллера
 nav_order: 3
 ---
 
