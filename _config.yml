@@ -1,18 +1,15 @@
-title: Руководство RS
-description: Руководство по эксплуатации системой контроля и управления доступом RS
+title: Руководство
+#description: Руководство по эксплуатации системой контроля и управления доступом RS
 theme: just-the-docs
 
 url: Rast164.github.io/Robo
-logo: "/assets/images/logo.png"
+#logo: "/assets/images/logo.png"
 favicon_ico: "/assets/images/favicon.png"
 
 callouts:
   warning:
     title: ВНИМАНИЕ
     color: red
-  advice:
-    title: СОВЕТ
-    color: green
   note:
     title: ПРИМЕЧАНИЕ
     color: yellow
